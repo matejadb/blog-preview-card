@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-blog-preview-card-with-css-I9Q1wFLD_G](https://www.frontendmentor.io/solutions/responsive-blog-preview-card-with-css-I9Q1wFLD_G)
+- Live Site URL: [https://matejadb.github.io/blog-preview-card/](https://matejadb.github.io/blog-preview-card/)
 
 ## My process
 
